@@ -1,0 +1,17 @@
+{
+  "name": "AzGram Social Network",
+  "short_name": "AzGram",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d0b14",
+  "theme_color": "#120D24",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

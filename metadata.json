@@ -1,0 +1,6 @@
+{
+  "name": "AzGram",
+  "description": "Production-oriented MVP of AzGram social network (0 AZN budget) with Supabase PostgreSQL, Auth, RLS, Storage, Realtime, web and native Android client",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

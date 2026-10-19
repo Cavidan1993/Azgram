@@ -1,0 +1,11 @@
+-- ========================================================================
+-- AzGram Optional Development Seed Script
+-- Note: In production Supabase, users are created through Auth.
+-- This script provides demo profiles and posts when testing locally with Supabase CLI.
+-- ========================================================================
+
+-- Insert sample admin role placeholder
+-- Note: Replace with your actual auth.users UUID after sign up!
+-- INSERT INTO public.user_roles (user_id, role)
+-- VALUES ('00000000-0000-0000-0000-000000000001', 'admin')
+-- ON CONFLICT (user_id) DO UPDATE SET role = 'admin';
